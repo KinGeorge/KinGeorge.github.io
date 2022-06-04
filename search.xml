@@ -4,6 +4,58 @@
   
     
     <entry>
+      <title>认知科学基础-期中课程设计</title>
+      <link href="/2022/06/04/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%9C%9F%E4%B8%AD%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2022/06/04/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%9C%9F%E4%B8%AD%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>开放性题目，结合视语言、语音识别、机器人平台，采用Webots\ROS等不同开源仿真环境，构建一个单&#x2F;多智能体的认知导航、认知规划、认知控制仿真算例，里面可以用已有的各种传感器组件、机器人模型，基于前期所讲简单的认知智能知识点做仿真试验，算法可以从github上开源下载使用。鼓励大家选择此题目开展一些小试验，可以提问实现的方式方法。同时提交仿真实现的设计和试验研习报告。突出认知智能应用的关键要点，进行详细阐述说明。</p></blockquote><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div><p>原论文链接：<a href="https://www.sciencedirect.com/science/article/pii/S0921889016302159">A novel potential field method for path planning of mobile robots by adapting animal motion attributes</a></p><p>程序下载：<a href="http://www.generalmechatronics.com/doc/publ/PathPlanning_Elsevier2015.zip">Mathlab</a></p><p>不过要注意版本真的很重要，花最多时间的就是找合适的版本了。。。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 认知科学基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我正在使用的超棒工具</title>
+      <link href="/2022/06/04/%E6%88%91%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%B6%85%E6%A3%92%E5%B7%A5%E5%85%B7/"/>
+      <url>/2022/06/04/%E6%88%91%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%B6%85%E6%A3%92%E5%B7%A5%E5%85%B7/</url>
+      
+        <content type="html"><![CDATA[<p>这里罗列了我目前使用的几乎全部软件和网站。</p><p>那么我使用的工具一般都会有以下几个特点：</p><ul><li>界面要简洁</li><li>功能要强大</li><li>打开要快速</li><li>多端要适配</li></ul><h2 id="Windows（杂七杂八）"><a href="#Windows（杂七杂八）" class="headerlink" title="Windows（杂七杂八）"></a>Windows（杂七杂八）</h2><ul><li><a href="https://www.u.tools/">uTools</a>：类似Mac中Spotlight，很好用，可以与下面Everything联动搜索文件</li><li><a href="https://www.voidtools.com/">Everything</a>：超级快的文件搜索软件，秒搜</li><li><a href="https://www.itab.link/">iTab</a>：Chrome浏览器(或Edge)的扩展，十分好用。</li><li><a href="https://geekuninstaller.com/">geek</a>：超强的软件卸载器</li><li><a href="https://potplayer.daum.net/">pot player</a>：超强的视频播放器，功能非常多。</li></ul><h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><h3 id="效率-x2F-计划"><a href="#效率-x2F-计划" class="headerlink" title="效率&#x2F;计划"></a>效率&#x2F;计划</h3><ul><li><a href="https://www.notion.so/">Notion</a>：目前一般是用来管理日程，记录论文笔记的。这个软件可以日程管理，项目管理等等，功能非常强大。</li><li><a href="https://www.sortedapp.com/">Sorted3</a>：日程管理</li><li><a href="https://andyliang.me/sigma-planner/">SigmaPlanner</a>：IOS的课表应用</li></ul><h3 id="作业-x2F-报告"><a href="#作业-x2F-报告" class="headerlink" title="作业&#x2F;报告"></a>作业&#x2F;报告</h3><ul><li><strong>PPT：</strong><ul><li><a href="https://docs.google.com/presentation/u/0/">Google Slides</a>：模板比较简洁。</li></ul></li><li><strong>文本编辑：</strong><ul><li>苹果备忘录：可以平时简单记录一些东西。</li><li><a href="https://typora.io/">Typora</a>：最常用的编辑器，适合简单blog的撰写，文件较大时会崩，但新版收费了。</li><li><a href="https://docs.qq.com/">腾讯文档</a>：适合实验报告的编辑。意外的不错，页面也比较简洁，支持MARKDOWN，支持代码，公式插入，而且是云文档，腾讯的精品应用。</li><li><a href="https://www.overleaf.com/">Overleaf</a>：写作业论文时使用。在线LaTex编辑，永远的神，感觉比VSCode更棒。</li><li><a href="https://mathpix.com/">Mathpix</a>：和Overleaf配套使用的图片公式转LaTex，基本公式都可以进行转换。</li><li><a href="https://code.visualstudio.com/">VSCode</a>：代码编辑器。用Git很方便，打开很快，界面很优雅。</li><li><a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab</a>：在线运行代码，简单的代码可以在这里跑。</li><li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a>：Python IDE。现在代码都在服务器跑，所以很少用了，本地跑代码可以用一用。</li></ul></li><li><strong>服务器：</strong><ul><li>实验室白嫖（嘿嘿）</li><li><a href="https://www.autodl.com/">AutoDL</a>：价格比较便宜，支持JupyterLab，比较方便</li><li><a href="https://www.netsarang.com/en/xshell/">XShell</a>：用来远程控制服务器</li><li><a href="https://www.netsarang.com/en/xftp/">Xftp</a>：用来给远程服务器上传本地或反过来</li></ul></li><li><strong>文献管理：</strong><ul><li><a href="https://www.zhiyunwenxian.cn/">知云文献翻译</a>：一般懒得读摘要和介绍就会用这个。</li><li><a href="https://www.zotero.org/">zotero</a>：目前和word配合的很好，目前需要探索一下和腾讯文档和overleaf的契合度。</li></ul></li></ul><h2 id="娱乐"><a href="#娱乐" class="headerlink" title="娱乐"></a>娱乐</h2><h3 id="社交网站"><a href="#社交网站" class="headerlink" title="社交网站"></a>社交网站</h3><ul><li>Wechat&#x2F;QQ：没得说。</li><li><a href="https://www.zhihu.com/">知乎</a>：之后应该会尝试回答一些问题。</li><li><a href="https://m.weibo.cn/">微博 (weibo.cn)</a>：很少看，但是有热点事情的时候一般都是从微博先爆料出来。</li><li><a href="https://twitter.com/">Twitter</a>：微博爆料出来一般会被删掉，这是就来这里找。当然Twitter其他的内容就dddd了。</li><li><a href="https://medium.com/">Medium</a>：优质的数据科学blog分享平台，但是很多时候我有点懒得看。</li></ul><h3 id="视频网站"><a href="#视频网站" class="headerlink" title="视频网站"></a>视频网站</h3><ul><li><a href="https://www.bilibili.com/">Bilibili</a>：无广告，有弹幕，知识视频和。</li><li><a href="https://www.youtube.com/">Youtube</a>：主要看国内放不出来的内容。</li></ul><h3 id="个人网站"><a href="#个人网站" class="headerlink" title="个人网站"></a>个人网站</h3><ul><li><a href="https://kingeorge.github.io/">Github Page</a>：主要更新我最近的项目，作业，学习到的技术。</li><li><a href="https://georgeisking.wordpress.com/">Wordpress</a>：分享我的想法，我的思考，不过小粉红不要观看，我怕气死你们。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>图像处理-传统+深度报告</title>
       <link href="/2022/06/04/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E4%BC%A0%E7%BB%9F-%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A/"/>
       <url>/2022/06/04/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E4%BC%A0%E7%BB%9F-%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A/</url>
