@@ -4,6 +4,87 @@
   
     
     <entry>
+      <title>深度学习-期末报告</title>
+      <link href="/2022/07/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E6%9C%9F%E6%9C%AB%E6%8A%A5%E5%91%8A/"/>
+      <url>/2022/07/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E6%9C%9F%E6%9C%AB%E6%8A%A5%E5%91%8A/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="报告要求"><a href="#报告要求" class="headerlink" title="报告要求"></a>报告要求</h2><p>题目范围选择（8选1）：<br>一、面向医学图像的深度学习模型</p><ol><li>基于深度学习分类网络的病变诊断</li><li>基于深度学习分类计算机视觉的人体组织检测</li><li>基于深度学习生成模型的医学图像小样本解决方案</li><li>基于终身学习的多中心医学图像迁移学习方案</li></ol><p>二、面向三位点云的深度学习模型</p><ol><li>点云补全</li><li>点云分割</li><li>点云配准</li><li>基于点云的3D目标检测</li></ol><p>要求：<br>1、研究报告使用《中山大学学报》作为模板， 双栏排版。<br>2、页数15页正文+若干页参考文献， 正文部分不少于14页、不多于16页。<br>3、组长负责组内评分（0~10分），最终得分将由组整体完成水平和组内相对得分共同决定。</p></blockquote><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 深度学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>深度学习-期中报告</title>
+      <link href="/2022/07/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E6%9C%9F%E4%B8%AD%E6%8A%A5%E5%91%8A/"/>
+      <url>/2022/07/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E6%9C%9F%E4%B8%AD%E6%8A%A5%E5%91%8A/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="报告要求"><a href="#报告要求" class="headerlink" title="报告要求"></a>报告要求</h2><p>结合具体应用调研基于深度学习的分类网络，可选应用方向：细粒度分类、人脸识别、行为识别、医学图像分类、猫狗分类等分类任务<br>必做：</p><ol><li>分析分类网络处理数据的整体流程</li><li>分析分类网络各模块的组成及功能</li><li>分析分类网络各模块的内在工作原理：即为何这样设计就能解决某个应用问题？</li><li>附上不少于20篇参考文献（其中至少15篇CCF推荐期刊或会议文章）</li></ol><p>选做：</p><ol><li>和传统方法如何结合</li><li>未来研究方向展望</li></ol><p>要求：<br>1、研究报告使用《中山大学学报》作为模板， 双栏排版。<br>2、页数15页正文+若干页参考文献， 正文部分不少于14页、不多于16页。<br>3、得分规则：按照作业内容的丰富度、思考深度、写作水平、细致程度、书籍引用水平等因素综合评分。注意，页数范围内的字数多少不影响得分，但是排版不对、错别字病句多、逻辑混乱、参考文献格式混乱、参考文献有水刊则会导致扣分。<br>4、可以在上学期作业的基础上修改完成，但是必须说明修改了哪些内容，有何种进步，以体现你们知识水平的逐步提升。</p></blockquote><p>这个其实最后我不是很满意，但是我也不是组长，没时间去大刀阔斧的改了。</p><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 深度学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图像处理-期中报告</title>
+      <link href="/2022/07/11/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E6%9C%9F%E4%B8%AD%E6%8A%A5%E5%91%8A/"/>
+      <url>/2022/07/11/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E6%9C%9F%E4%B8%AD%E6%8A%A5%E5%91%8A/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="报告要求"><a href="#报告要求" class="headerlink" title="报告要求"></a>报告要求</h2><p>(1) 主题自选，报告内容与课程内容和文献（自选CCF推荐期刊、会议文献，主题方向自定）阅读内容相关，以学习过程的自我理解与感悟为主。<br>(2) 不少于1500字，排版和格式参考《中山大学学报》（自然科学版）。阅读的文献按照国标格式要求放在参考文献处。</p></blockquote><p>这次的报告说实话做的比较水。。。</p><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 图像处理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>认知科学基础-期末课程设计</title>
       <link href="/2022/06/17/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%9C%9F%E6%9C%AB%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
       <url>/2022/06/17/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%9C%9F%E6%9C%AB%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</url>
