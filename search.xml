@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/12/25/hello-world/"/>
+      <url>/2022/12/25/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Online Courses(持续更新)</title>
+      <link href="/2022/07/21/Online-Courses/"/>
+      <url>/2022/07/21/Online-Courses/</url>
+      
+        <content type="html"><![CDATA[<p>这里主要会记录我上的网络课程笔记，我使用的工具是<a href="https://www.notion.so/">Notion</a>，这是一个非常强大的软件，可以让我非常高效的记录笔记，我的在线课程网站可以点击如下链接访问：</p><p><a href="https://kingeorge.notion.site/e832f9f3c25146339eed39a0a1f709ad?v=23301969e28e411b8ebfc4f4968f6b9">Online Courses</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> online-couses </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>深度学习-期末报告</title>
+      <link href="/2022/07/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E6%9C%9F%E6%9C%AB%E6%8A%A5%E5%91%8A/"/>
+      <url>/2022/07/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E6%9C%9F%E6%9C%AB%E6%8A%A5%E5%91%8A/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="报告要求"><a href="#报告要求" class="headerlink" title="报告要求"></a>报告要求</h2><p>题目范围选择（8选1）：<br>一、面向医学图像的深度学习模型</p><ol><li>基于深度学习分类网络的病变诊断</li><li>基于深度学习分类计算机视觉的人体组织检测</li><li>基于深度学习生成模型的医学图像小样本解决方案</li><li>基于终身学习的多中心医学图像迁移学习方案</li></ol><p>二、面向三位点云的深度学习模型</p><ol><li>点云补全</li><li>点云分割</li><li>点云配准</li><li>基于点云的3D目标检测</li></ol><p>要求：<br>1、研究报告使用《中山大学学报》作为模板， 双栏排版。<br>2、页数15页正文+若干页参考文献， 正文部分不少于14页、不多于16页。<br>3、组长负责组内评分（0~10分），最终得分将由组整体完成水平和组内相对得分共同决定。</p></blockquote><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 深度学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>深度学习-期中报告</title>
+      <link href="/2022/07/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E6%9C%9F%E4%B8%AD%E6%8A%A5%E5%91%8A/"/>
+      <url>/2022/07/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E6%9C%9F%E4%B8%AD%E6%8A%A5%E5%91%8A/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="报告要求"><a href="#报告要求" class="headerlink" title="报告要求"></a>报告要求</h2><p>结合具体应用调研基于深度学习的分类网络，可选应用方向：细粒度分类、人脸识别、行为识别、医学图像分类、猫狗分类等分类任务<br>必做：</p><ol><li>分析分类网络处理数据的整体流程</li><li>分析分类网络各模块的组成及功能</li><li>分析分类网络各模块的内在工作原理：即为何这样设计就能解决某个应用问题？</li><li>附上不少于20篇参考文献（其中至少15篇CCF推荐期刊或会议文章）</li></ol><p>选做：</p><ol><li>和传统方法如何结合</li><li>未来研究方向展望</li></ol><p>要求：<br>1、研究报告使用《中山大学学报》作为模板， 双栏排版。<br>2、页数15页正文+若干页参考文献， 正文部分不少于14页、不多于16页。<br>3、得分规则：按照作业内容的丰富度、思考深度、写作水平、细致程度、书籍引用水平等因素综合评分。注意，页数范围内的字数多少不影响得分，但是排版不对、错别字病句多、逻辑混乱、参考文献格式混乱、参考文献有水刊则会导致扣分。<br>4、可以在上学期作业的基础上修改完成，但是必须说明修改了哪些内容，有何种进步，以体现你们知识水平的逐步提升。</p></blockquote><p>这个其实最后我不是很满意，但是我也不是组长，没时间去大刀阔斧的改了。</p><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 深度学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图像处理-期中报告</title>
+      <link href="/2022/07/11/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E6%9C%9F%E4%B8%AD%E6%8A%A5%E5%91%8A/"/>
+      <url>/2022/07/11/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E6%9C%9F%E4%B8%AD%E6%8A%A5%E5%91%8A/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="报告要求"><a href="#报告要求" class="headerlink" title="报告要求"></a>报告要求</h2><p>(1) 主题自选，报告内容与课程内容和文献（自选CCF推荐期刊、会议文献，主题方向自定）阅读内容相关，以学习过程的自我理解与感悟为主。<br>(2) 不少于1500字，排版和格式参考《中山大学学报》（自然科学版）。阅读的文献按照国标格式要求放在参考文献处。</p></blockquote><p>这次的报告说实话做的比较水。。。</p><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 图像处理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>认知科学基础-期末课程设计</title>
+      <link href="/2022/06/17/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%9C%9F%E6%9C%AB%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2022/06/17/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%9C%9F%E6%9C%AB%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>开放性题目（期中题目延续），结合视语言、语音识别、机器人平台，采用Webots\ROS等不同开源仿真环境，构建一个单&#x2F;多智能体的认知导航、认知规划、认知控制仿真算例，里面可以用已有的各种传感器组件、机器人模型，基于前期所讲简单的认知智能知识点做仿真试验，算法可以从github上开源下载使用。鼓励大家选择此题目开展一些小试验，可以提问实现的方式方法。同时提交仿真实现的设计和试验研习报告。突出认知智能应用的关键要点，进行详细阐述说明。</p></blockquote><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div><p>原论文链接：<a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.pdf">Cognitive Mapping and Planning for Visual Navigation</a></p><p>程序下载：<a href="https://paperswithcode.com/paper/cognitive-mapping-and-planning-for-visual">Paperwithcode</a></p><p>我只能说Paperwithcode永远的神。</p><p>这次其实并不是很成功，最后也是做了一些妥协才完成的。。。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 认知科学基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>认知科学基础-期中课程设计</title>
+      <link href="/2022/06/04/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%9C%9F%E4%B8%AD%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2022/06/04/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6%E5%9F%BA%E7%A1%80-%E6%9C%9F%E4%B8%AD%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>开放性题目，结合视语言、语音识别、机器人平台，采用Webots\ROS等不同开源仿真环境，构建一个单&#x2F;多智能体的认知导航、认知规划、认知控制仿真算例，里面可以用已有的各种传感器组件、机器人模型，基于前期所讲简单的认知智能知识点做仿真试验，算法可以从github上开源下载使用。鼓励大家选择此题目开展一些小试验，可以提问实现的方式方法。同时提交仿真实现的设计和试验研习报告。突出认知智能应用的关键要点，进行详细阐述说明。</p></blockquote><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div><p>原论文链接：<a href="https://www.sciencedirect.com/science/article/pii/S0921889016302159">A novel potential field method for path planning of mobile robots by adapting animal motion attributes</a></p><p>程序下载：<a href="http://www.generalmechatronics.com/doc/publ/PathPlanning_Elsevier2015.zip">Mathlab</a></p><p>不过要注意版本真的很重要，花最多时间的就是找合适的版本了。。。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 认知科学基础 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我正在使用的超棒工具</title>
+      <link href="/2022/06/04/%E6%88%91%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%B6%85%E6%A3%92%E5%B7%A5%E5%85%B7/"/>
+      <url>/2022/06/04/%E6%88%91%E6%AD%A3%E5%9C%A8%E4%BD%BF%E7%94%A8%E7%9A%84%E8%B6%85%E6%A3%92%E5%B7%A5%E5%85%B7/</url>
+      
+        <content type="html"><![CDATA[<p>这里罗列了我目前使用的几乎全部软件和网站。</p><p>那么我使用的工具一般都会有以下几个特点：</p><ul><li>界面要简洁</li><li>功能要强大</li><li>打开要快速</li><li>多端要适配</li></ul><h2 id="Windows（杂七杂八）"><a href="#Windows（杂七杂八）" class="headerlink" title="Windows（杂七杂八）"></a>Windows（杂七杂八）</h2><ul><li><a href="https://www.u.tools/">uTools</a>：类似Mac中Spotlight，很好用，可以与下面Everything联动搜索文件</li><li><a href="https://www.voidtools.com/">Everything</a>：超级快的文件搜索软件，秒搜</li><li><a href="https://www.itab.link/">iTab</a>：Chrome浏览器(或Edge)的扩展，十分好用。</li><li><a href="https://geekuninstaller.com/">geek</a>：超强的软件卸载器</li><li><a href="https://potplayer.daum.net/">pot player</a>：超强的视频播放器，功能非常多。</li></ul><h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><h3 id="效率-x2F-计划"><a href="#效率-x2F-计划" class="headerlink" title="效率&#x2F;计划"></a>效率&#x2F;计划</h3><ul><li><a href="https://www.notion.so/">Notion</a>：目前一般是用来管理日程，记录论文笔记的。这个软件可以日程管理，项目管理等等，功能非常强大。</li><li><a href="https://www.sortedapp.com/">Sorted3</a>：日程管理</li><li><a href="https://andyliang.me/sigma-planner/">SigmaPlanner</a>：IOS的课表应用</li></ul><h3 id="作业-x2F-报告"><a href="#作业-x2F-报告" class="headerlink" title="作业&#x2F;报告"></a>作业&#x2F;报告</h3><ul><li><strong>PPT：</strong><ul><li><a href="https://docs.google.com/presentation/u/0/">Google Slides</a>：模板比较简洁。</li></ul></li><li><strong>文本编辑：</strong><ul><li>苹果备忘录：可以平时简单记录一些东西。</li><li><a href="https://typora.io/">Typora</a>：最常用的编辑器，适合简单blog的撰写，文件较大时会崩，但新版收费了。</li><li><a href="https://docs.qq.com/">腾讯文档</a>：适合实验报告的编辑。意外的不错，页面也比较简洁，支持MARKDOWN，支持代码，公式插入，而且是云文档，腾讯的精品应用。</li><li><a href="https://www.overleaf.com/">Overleaf</a>：写作业论文时使用。在线LaTex编辑，永远的神，感觉比VSCode更棒。</li><li><a href="https://mathpix.com/">Mathpix</a>：和Overleaf配套使用的图片公式转LaTex，基本公式都可以进行转换。</li><li><a href="https://code.visualstudio.com/">VSCode</a>：代码编辑器。用Git很方便，打开很快，界面很优雅。</li><li><a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab</a>：在线运行代码，简单的代码可以在这里跑。</li><li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a>：Python IDE。现在代码都在服务器跑，所以很少用了，本地跑代码可以用一用。</li></ul></li><li><strong>服务器：</strong><ul><li>实验室白嫖（嘿嘿）</li><li><a href="https://www.autodl.com/">AutoDL</a>：价格比较便宜，支持JupyterLab，比较方便</li><li><a href="https://www.netsarang.com/en/xshell/">XShell</a>：用来远程控制服务器</li><li><a href="https://www.netsarang.com/en/xftp/">Xftp</a>：用来给远程服务器上传本地或反过来</li></ul></li><li><strong>文献管理：</strong><ul><li><a href="https://www.zhiyunwenxian.cn/">知云文献翻译</a>：一般懒得读摘要和介绍就会用这个。</li><li><a href="https://www.zotero.org/">zotero</a>：目前和word配合的很好，目前需要探索一下和腾讯文档和overleaf的契合度。</li></ul></li></ul><h2 id="娱乐"><a href="#娱乐" class="headerlink" title="娱乐"></a>娱乐</h2><h3 id="社交网站"><a href="#社交网站" class="headerlink" title="社交网站"></a>社交网站</h3><ul><li>Wechat&#x2F;QQ：没得说。</li><li><a href="https://www.zhihu.com/">知乎</a>：之后应该会尝试回答一些问题。</li><li><a href="https://m.weibo.cn/">微博 (weibo.cn)</a>：很少看，但是有热点事情的时候一般都是从微博先爆料出来。</li><li><a href="https://twitter.com/">Twitter</a>：微博爆料出来一般会被删掉，这是就来这里找。当然Twitter其他的内容就dddd了。</li><li><a href="https://medium.com/">Medium</a>：优质的数据科学blog分享平台，但是很多时候我有点懒得看。</li></ul><h3 id="视频网站"><a href="#视频网站" class="headerlink" title="视频网站"></a>视频网站</h3><ul><li><a href="https://www.bilibili.com/">Bilibili</a>：无广告，有弹幕，知识视频和。</li><li><a href="https://www.youtube.com/">Youtube</a>：主要看国内放不出来的内容。</li></ul><h3 id="个人网站"><a href="#个人网站" class="headerlink" title="个人网站"></a>个人网站</h3><ul><li><a href="https://kingeorge.github.io/">Github Page</a>：主要更新我最近的项目，作业，学习到的技术。</li><li><a href="https://georgeisking.wordpress.com/">Wordpress</a>：分享我的想法，我的思考，不过小粉红不要观看，我怕气死你们。</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图像处理-传统+深度报告</title>
+      <link href="/2022/06/04/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E4%BC%A0%E7%BB%9F-%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A/"/>
+      <url>/2022/06/04/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E4%BC%A0%E7%BB%9F-%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h2 id="内容："><a href="#内容：" class="headerlink" title="内容："></a>内容：</h2><p>阅读一篇近5年来自CVPR，ICCV, ECCV或ACMMM 的采用了 “传统+深度”方法的论文。任务不限，可以是处理底层视觉 任务的，也可以是处理高层视觉任务的工作。 </p><h2 id="要求："><a href="#要求：" class="headerlink" title="要求："></a>要求：</h2><ul><li>长度控制在5页以内，同时一定要有原工作的引用出处和框图； </li><li>要分别对所介绍工作“传统”方法部分和“深度学习”方法部分进行详略得当的介绍（重点部分一定要介绍清楚）；</li><li>最后总结分析该工作的创新之处； </li><li>参考文献按照国标格式要求放在参考文献处。</li></ul></blockquote><p>这次的报告说实话就是纯纯的翻译，不过还是更加熟悉了Overleaf的使用，还是不错的。</p><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div><p>原论文可以<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Ren_Adaptive_Consistency_Prior_Based_Deep_Network_for_Image_Denoising_CVPR_2021_paper.pdf">点此</a>进行访问。</p><div class="row">    <embed src="https://openaccess.thecvf.com/content/CVPR2021/papers/Ren_Adaptive_Consistency_Prior_Based_Deep_Network_for_Image_Denoising_CVPR_2021_paper.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> 图像处理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AI实验-RNN时间序列预测</title>
+      <link href="/2022/06/04/AI%E5%AE%9E%E9%AA%8C-RNN%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B/"/>
+      <url>/2022/06/04/AI%E5%AE%9E%E9%AA%8C-RNN%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>平时作业-航班预测</p><p>使用单层GRU、单层LSTM、多层LSTM、双向LSTM、多层双向LSTM<br>训练数据：data.csv里面的前143个月的航班数据</p><p>需要提交word文档（命名为：学号_姓名_平时作业）：</p><ol><li>pytorch代码</li><li>列个表格，说明使用的方法及对应的第144个月的预测结果</li></ol><p>截止时间和期末作业一致，提交给助教</p></blockquote><p>作业已经写完并且上传到了Github上，可以<a href="https://github.com/KinGeorge/Airline-Prediction">由此</a>访问。</p><p>也可以通过通过<a href="https://drive.google.com/file/d/155SnDAoOae-gPi30MxjGbsQVA5vQ-xAV/view?usp=sharing">这里</a>打开Colab，需要自己将数据集放进去。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> AI实验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Building your own websites by Hexo</title>
+      <link href="/2022/05/14/Building-your-own-websites-by-Hexo/"/>
+      <url>/2022/05/14/Building-your-own-websites-by-Hexo/</url>
+      
+        <content type="html"><![CDATA[<p>This is implemented on Windows10. You can find an amazing series of videos which is on Mac on <a href="https://space.bilibili.com/13282871?spm_id_from=333.788.b_765f7570696e666f.2">MAC</a></p><h2 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h2><p>For me, I’m currently using <a href="https://typora.io/">Typora</a> as my markdown editor and <a href="https://code.visualstudio.com/">VSCode</a> as my code editor.</p><h2 id="Building-environment"><a href="#Building-environment" class="headerlink" title="Building environment"></a>Building environment</h2><p><a href="https://git-scm.com/">git</a>: version control system</p><p><a href="https://nodejs.org/en/">node</a>: JavaScript runtime</p><p>npm: package manager for Node.js</p><p>There are so many tutorials to help you install these tools, so I’ll just skip that.</p><p>To check if you have installed successfully:</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">git version</span><br><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><h2 id="Install-Hexo"><a href="#Install-Hexo" class="headerlink" title="Install Hexo"></a>Install Hexo</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo -g</span><br></pre></td></tr></table></figure><p>To check if you have installed successfully:</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm -v</span><br></pre></td></tr></table></figure><p>then cd into the folder you want to store your source code, then try</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo init [name of the folder]</span><br></pre></td></tr></table></figure><p>After that, we cd into the folder that you just created, and then:</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure><p>then you can try to use this command</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo serve</span><br></pre></td></tr></table></figure><p>and open the url to varify your website locally.</p><h2 id="Posting-blog-to-Github"><a href="#Posting-blog-to-Github" class="headerlink" title="Posting blog to Github"></a>Posting blog to Github</h2><p>Skipping how to create github.io repo…</p><p>open git and write:</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &#x27;&#x27;</span><br><span class="line">git config --global user.email &#x27;&#x27;</span><br></pre></td></tr></table></figure><p>And then open the _config.yml in the folder that Hexo created. And then change like this with your own repository url:</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 网站相关 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Butterfly </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
