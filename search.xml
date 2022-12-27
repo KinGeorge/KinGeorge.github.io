@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/12/25/hello-world/"/>
-      <url>/2022/12/25/hello-world/</url>
+      <title>MacBook Developer Setup Tour</title>
+      <link href="/2022/12/27/MacBook-Developer-Setup-Tour/"/>
+      <url>/2022/12/27/MacBook-Developer-Setup-Tour/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>This is for my MacBook Setup as a programmer.</p><h1 id="Hot-Keys"><a href="#Hot-Keys" class="headerlink" title="Hot Keys"></a>Hot Keys</h1><p><a href="https://support.apple.com/zh-cn/HT201236">Link</a></p><h1 id="Homebrew"><a href="#Homebrew" class="headerlink" title="Homebrew"></a>Homebrew</h1><p>To install it: </p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/bin/zsh -c &quot;$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)&quot;</span><br></pre></td></tr></table></figure><p>Set up the <code>PATH</code>:</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> <span class="string">&#x27;PATH=&quot;/usr/local/bin:$PATH&quot;&#x27;</span> &gt;&gt; ~/.bash_profile</span><br></pre></td></tr></table></figure><p>Then make sure everything is working by running:</p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew doctor</span><br></pre></td></tr></table></figure><h1 id="QuickLook-Plugins"><a href="#QuickLook-Plugins" class="headerlink" title="QuickLook Plugins"></a>QuickLook Plugins</h1><ul><li><a href="https://github.com/sbarex/QLMarkdown">QLMarkdown</a></li><li><a href="https://github.com/sbarex/SourceCodeSyntaxHighlight">Syntax Highlight</a></li><li><a href="https://github.com/sindresorhus/quick-look-plugins">Any Text &amp; Json Highlight</a></li></ul><p>I uploaded a video about it, you can <a href="https://www.bilibili.com/video/BV1DM411m7AR/?spm_id_from=333.999.0.0&vd_source=774a40f3df10aab03fa0c28b26435c2a">click</a> to check it out.</p><h1 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h1><p>All you need is $14.99</p><h1 id="iTerm2"><a href="#iTerm2" class="headerlink" title="iTerm2"></a>iTerm2</h1><p><a href="https://www.youtube.com/watch?v=CF1tMjvHDRA&list=LL&index=1&t=233s&ab_channel=JoseanMartinez">Link</a></p><h1 id="Alfred"><a href="#Alfred" class="headerlink" title="Alfred"></a>Alfred</h1><p><a href="https://www.bilibili.com/video/BV1Tt4y137Ss/?spm_id_from=333.337.search-card.all.click&vd_source=774a40f3df10aab03fa0c28b26435c2a">Link</a></p><h1 id="Termius"><a href="#Termius" class="headerlink" title="Termius"></a>Termius</h1><p>Shell&#x2F;SFTP Tool, You can verify on Gihub Education to get Github Student Developer Pack(And also use <a href="https://github.com/features/copilot">Github Copilot</a> for free)</p><h1 id="VS-Code"><a href="#VS-Code" class="headerlink" title="VS Code"></a>VS Code</h1><p>Nothing special really…</p><h1 id="Obsidian"><a href="#Obsidian" class="headerlink" title="Obsidian"></a>Obsidian</h1><p>I will write a new post to elaborate..</p><p><strong>References:</strong></p><ul><li>[MacOS Setup Guide](</li></ul>]]></content>
       
       
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+            <tag> Mac </tag>
+            
+        </tags>
       
     </entry>
     
