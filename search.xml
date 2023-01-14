@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>Computer Vision-Final Project</title>
+      <link href="/2023/01/14/Computer-Vision-Final-Project/"/>
+      <url>/2023/01/14/Computer-Vision-Final-Project/</url>
+      
+        <content type="html"><![CDATA[<p>选题内容: </p><ol><li>无条件图像生成:<ol><li>人物图像生成，生成相同风格的动漫头像或人物图像如celebA-HQ，FaceHQ等</li><li>自然图像生成:生成类似风格的自然图像，如Imagenet等</li></ol></li><li>条件图像生成:<ol><li>根据segmentation生成符合该分割的图像 数据集举例如ADE20K CoCo </li><li>根据keypoint信息生成符合该pose的人体姿态图 数据集举例如deepfashion </li><li>根据文本信息生成符合该文本信息描述的图片，数据集举例:CoCo</li></ol></li></ol><p>作业形式 1.数据集不限，模型不限，生成任务在选题范围内即可，在作业文档中请展示:数据集 及任务介绍;训练&#x2F;测试代码讲解及超参数设置;介绍模型及改进;定性展示图片结果; 定量展示评价指标如FID，IS等;组员分工及各自贡献;环境推荐使用mindspore</p><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> Computer Vision </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Computer Vision-Plant Pathology 2021 Classification</title>
+      <link href="/2023/01/14/Computer-Vision-Plant-Pathology-2021-Classification/"/>
+      <url>/2023/01/14/Computer-Vision-Plant-Pathology-2021-Classification/</url>
+      
+        <content type="html"><![CDATA[<ul><li>Plant Pathology-2021是Kaggle举办的FGVC8(CVPR2021-workshop)的数据 集，任务是对叶片的病害进行分类</li><li>难点一:叶片病害分类的类内差异大，类间差异小，属于细粒度分类问题，对该 问题有见解和解决方案会加分</li><li>难点二:该数据集有以下12个类别，不同的类别之间有重复，例如[scab]存在于 多个类别中，这会影响模型的训练精度。建议同学们把类别改为如下6类，转换 成多标签分类问题，对标签进行one-hot编码再训练(有相应加分)</li></ul><div class="row">    <embed src="report.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程作业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> homework </tag>
+            
+            <tag> Computer Vision </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MacBook Developer Setup Tour</title>
       <link href="/2022/12/27/MacBook-Developer-Setup-Tour/"/>
       <url>/2022/12/27/MacBook-Developer-Setup-Tour/</url>
