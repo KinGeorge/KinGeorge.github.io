@@ -8,9 +8,23 @@
       <link href="/2023/05/04/ChatGPT-Prompt-Engineering-for-Developers/"/>
       <url>/2023/05/04/ChatGPT-Prompt-Engineering-for-Developers/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>The original course is on <a href="https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction">deeplearning.ai</a>.</p><p>In <strong>ChatGPT Prompt Engineering for Developers</strong>, you will learn how to use a large language model (LLM) to quickly build new and powerful applications.  Using the OpenAI API, you’ll be able to quickly build capabilities that learn to innovate and create value in ways that were cost-prohibitive, highly technical, or simply impossible before now.</p><p>This short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) will describe how LLMs work, provide best practices for prompt engineering, and show how LLM APIs can be used in applications for a variety of tasks, including:</p><ul><li>Summarizing (e.g., summarizing user reviews for brevity)</li><li>Inferring (e.g., sentiment classification, topic extraction)</li><li>Transforming text (e.g., translation, spelling &amp; grammar correction)</li><li>Expanding (e.g., automatically writing emails)</li></ul><p>In addition, you’ll learn two key principles for writing effective prompts, how to systematically engineer good prompts, and also learn to build a custom chatbot. </p><p>All concepts are illustrated with numerous examples, which you can play with directly in our Jupyter notebook environment to get hands-on experience with prompt engineering. </p>]]></content>
       
       
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ChatGPT </tag>
+            
+            <tag> MOOC </tag>
+            
+        </tags>
       
     </entry>
     
